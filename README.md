@@ -1,0 +1,2 @@
+# plant-dataset
+The "plants" dataset for indoor plants is based primarily on (Pennisi, 2020) and other research papers that use light, temperature, relative humidity, watering, and the soil mix that can be used in an IoT application, as well as commonName, Toxicity, General care information, Foliage, Flower, Arabic name, Family, the commercial light levels suitable for each plant, description, and what the plant can do for society.
